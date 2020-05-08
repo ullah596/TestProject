@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52592" started-at="2020-05-02T02:11:08 EDT" finished-at="2020-05-02T02:12:01 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52592" started-at="2020-05-02T02:11:08 EDT" finished-at="2020-05-02T02:12:01 EDT">
+      <class name="AmazonPageTest.AmaznLogin_Test">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="browserSetup" is-config="true" duration-ms="9759" started-at="2020-05-02T02:11:08 EDT" finished-at="2020-05-02T02:11:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="AzSearchBox()[pri:0, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="AzSearchBox" duration-ms="2308" started-at="2020-05-02T02:11:18 EDT" finished-at="2020-05-02T02:11:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AzSearchBox -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="CloseBrowser" is-config="true" duration-ms="4154" started-at="2020-05-02T02:11:20 EDT" finished-at="2020-05-02T02:11:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="browserSetup" is-config="true" duration-ms="9546" started-at="2020-05-02T02:11:24 EDT" finished-at="2020-05-02T02:11:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="AZNSignUP()[pri:1, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="AZNSignUP" duration-ms="2224" started-at="2020-05-02T02:11:34 EDT" finished-at="2020-05-02T02:11:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AZNSignUP -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="CloseBrowser" is-config="true" duration-ms="3828" started-at="2020-05-02T02:11:36 EDT" finished-at="2020-05-02T02:11:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="browserSetup" is-config="true" duration-ms="11324" started-at="2020-05-02T02:11:40 EDT" finished-at="2020-05-02T02:11:51 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="AZNlogin()[pri:2, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="AZNlogin" duration-ms="5644" started-at="2020-05-02T02:11:51 EDT" finished-at="2020-05-02T02:11:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AZNlogin -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:AmazonPageTest.AmaznLogin_Test@6e6c3152]" name="CloseBrowser" is-config="true" duration-ms="3754" started-at="2020-05-02T02:11:57 EDT" finished-at="2020-05-02T02:12:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- AmazonPageTest.AmaznLogin_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
